@@ -1,0 +1,6 @@
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.dll.config
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.dll
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\bin\Resume.pdb
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.dll
+c:\users\mahnoor khan\documents\visual studio 2013\Projects\Resume\Resume\obj\Debug\Resume.pdb
